@@ -1,0 +1,10 @@
+Name,Department,Salary
+john,Data Science,10000
+Stephen,IOT,5000
+,Bigdata,4000
+paul,Bigdata,
+Krish,Data Science,20000
+Joe,Data Science,10000
+Stephen,IOT,5000
+jack,Bigdata,10000
+Krish,,8000
